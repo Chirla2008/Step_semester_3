@@ -1,5 +1,5 @@
 package array.class_problems;
-public class Duplicate {
+public class arryDuplicate {
 
     public static boolean Duplicate(int[] nums) {
 
